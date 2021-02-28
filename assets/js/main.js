@@ -956,8 +956,30 @@ jQuery(function ($) {
         "These cookies are used to make advertising messages more relevant to you and your interests. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.",
     };
 
+    gdprCookieNoticeLocales.ru = {
+      description:
+        "Мы используем файлы cookie, чтобы предложить вам большее удобство использования сайта, персонализировать контент и рекламу, предоставить функции социальных сетей и проанализировать наш трафик. Вы соглашаетесь на использование наших файлов cookie, если продолжаете использовать этот веб-сайт.",
+      settings: "Настройки cookie",
+      accept: "Принять cookies",
+      statement: "Политика конфиденциальности",
+      save: "Сохранить настройки",
+      always_on: "Всегда разрешать",
+      cookie_essential_title: "Основные cookies",
+      cookie_essential_desc:
+        "Необходимые файлы cookie помогают сделать веб-сайт пригодным для использования, обеспечивая такие основные функции, как навигация по страницам и доступ к защищенным областям веб-сайта. Веб-сайт не может работать должным образом без этих файлов cookie.",
+      cookie_performance_title: "Файлы производительности cookies",
+      cookie_performance_desc:
+        "Эти файлы cookie используются для повышения производительности и функциональности наших веб-сайтов, но не являются необходимыми для их использования. Например, он хранит ваш предпочтительный язык или регион, в котором вы находитесь.",
+      cookie_analytics_title: "Аналитические cookies",
+      cookie_analytics_desc:
+        "Мы используем аналитические файлы cookie, чтобы помочь нам измерить, как пользователи взаимодействуют с контентом веб-сайта, что помогает нам настраивать наши веб-сайты и приложения для вас, чтобы вам было удобнее.",
+      cookie_marketing_title: "Маркетинговые cookies",
+      cookie_marketing_desc:
+        "Эти файлы cookie используются, чтобы сделать рекламные сообщения более актуальными для вас и ваших интересов.",
+    };
+
     gdprCookieNotice({
-      locale: "en", // This is the default value
+      locale: "ru", // This is the default value
       timeout: 2000, // Time until the cookie bar appears
       expiration: 30, // This is the default value, in days
       domain: window.location.hostname, // If you run the same cookie notice on all subdomains, define the main domain starting with a .
