@@ -17,7 +17,7 @@
 
         <meta name="description" content="Создание сайта, SEO-аудит и продвижение вашего сайта. Увеличте свои продажи с помощью сайта.">
         <meta name="subject" content="Разработка и создание сайтов, IT, веб-разработка, SEO-продвижение">
-        <meta name="author" content="Askold Astakhov">
+        <meta name="author" content="humans.txt">
 
         <meta property="og:title" content="Разработка сайтов и SEO-продвижение в Туле">
         <meta property="og:description" content="Создание сайта, SEO-аудит и продвижение вашего сайта. Увеличте свои продажи с помощью сайта.">

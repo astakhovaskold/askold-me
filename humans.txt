@@ -1,0 +1,16 @@
+/* TEAM */
+                
+Your title: Askold Astakhov
+Site: https://askold.me
+Location: Russia
+
+                         
+                 
+                        [...]
+                  
+
+/* SITE */
+    
+Last update: 2021/03/06    
+Standards: HTML5, CSS3, ECMAScript6, PHP
+Components: jQuery
