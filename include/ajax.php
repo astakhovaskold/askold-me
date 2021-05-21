@@ -81,7 +81,7 @@ $message = '
  
 // формируем headers для письма
 $headers  = "Content-type: text/html; charset=utf-8 \r\n"; // Заголовок для работы HTML в письме
-$headers .= "From: Сообщение с сайта <info@askold.me>\r\n"; // от кого
+$headers .= "From: Сообщение с сайта <info@webber.pw>\r\n"; // от кого
  
 // кодируем заголовок в UTF-8
 $subject = preg_replace("/(\r\n)|(\r)|(\n)/", "", $subject);

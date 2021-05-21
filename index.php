@@ -400,7 +400,7 @@
                     </div>
                     <div class="col-12 col-md-4">
                         <div class="contacts">
-                            <h4>askold.me</h4>
+                            <h4>webber.pw</h4>
                             <p>Создание и разработка сайтов, интернет-магазинов.</p>
                             <p>Обслуживание и продвижение сайтов.</p>
                             <ul class="navbar-nav">

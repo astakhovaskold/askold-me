@@ -5,7 +5,7 @@ $phone = [
 	'link' => '+79605959515',
 ];
 
-$email = 'info@askold.me';
+$email = 'info@webber.pw';
 
 $social = [
 	'vk' => '',

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://askold.me/sitemap.xml
+Sitemap: https://webber.pw/sitemap.xml

@@ -11,9 +11,9 @@
                             <a class="navbar-brand" href="/">
                                 <span class="brand">
                                     <span class="featured">
-                                        <span class="first">askold</span>
+                                        <span class="first">webb</span>
                                     </span>
-                                    <span class="last">.me</span>
+                                    <span class="last">er</span>
                                 </span>
                                 
                                 <!-- 
@@ -93,7 +93,7 @@
                              -->
                         </div>
                         <div class="col-12 col-md-6 p-3 text-center text-lg-right">
-                            <p>© <?php echo date("Y"); ?> askold.me</p>
+                            <p>© <?php echo date("Y"); ?> webber.pw</p>
                         </div>
                     </div>
                 </div>

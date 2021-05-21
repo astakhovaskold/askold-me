@@ -13,7 +13,7 @@
 
         <!--[if IE]><meta http-equiv="x-ua-compatible" content="IE=9" /><![endif]-->
 
-        <title>Разработка сайтов и SEO-продвижение в Туле &ndash; askold.me</title>
+        <title>Разработка сайтов и SEO-продвижение в Туле &ndash; webber.pw</title>
 
         <meta name="description" content="Создание сайта, SEO-аудит и продвижение вашего сайта. Увеличте свои продажи с помощью сайта.">
         <meta name="subject" content="Разработка и создание сайтов, IT, веб-разработка, SEO-продвижение">
@@ -21,8 +21,8 @@
 
         <meta property="og:title" content="Разработка сайтов и SEO-продвижение в Туле">
         <meta property="og:description" content="Создание сайта, SEO-аудит и продвижение вашего сайта. Увеличте свои продажи с помощью сайта.">
-        <meta property="og:url" content="https://askold.me/">
-        <meta property="og:site_name" content="askold.me">
+        <meta property="og:url" content="https://webber.pw/">
+        <meta property="og:site_name" content="webber.pw">
         <meta property="og:type" content="article">
         <meta property="og:image" content="assets/images/favicon.png">
         <!-- ==============================================
@@ -166,9 +166,9 @@
                     <a class="navbar-brand" href="/">
                         <span class="brand">
                             <span class="featured">
-                                <span class="first">askold</span>
+                                <span class="first">webb</span>
                             </span>
-                            <span class="last">.me</span>
+                            <span class="last">er</span>
                         </span>
                         
                         <!-- 
