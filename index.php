@@ -21,7 +21,7 @@
 
                                     <!-- Content -->
                                     <h1 data-aos="zoom-in" data-aos-delay="2000" class="title effect-static-text">Создание <span class="featured"><span>сайтов</span></span></h1>
-                                    <p data-aos="zoom-in" data-aos-delay="2400" class="description mr-auto ml-auto">Успешные стратегии включают в себя наиболее продуктивные инструменты продвижения в интернете. Наша миссия - сделать ваш бизнес более успешным в сетевом пространстве.</p>
+                                    <p data-aos="zoom-in" data-aos-delay="2400" class="description mr-auto ml-auto">Идеальный сайт &ndash; ключ к успеху. Наша миссия &ndash; сделать ваш бизнес ещё более успешным в интернет-пространстве.</p>
                                    
                                     <!-- Action -->
                                     <div data-aos="fade-up" data-aos-delay="2800" class="buttons">
@@ -204,7 +204,7 @@
                         <div class="card">
                             <i class="icon icon-drawer"></i>
                             <h4>Консалтинг</h4>
-                            <p>Все остальные вопросы и реализация доработок.</p>
+                            <p>Все остальные задачи и их реализация.</p>
 
                             <!-- Action -->
                             <div class="buttons">
@@ -233,34 +233,17 @@
                         <div data-aos="fade-up"  class="card">
                             <a href="#" class="choose-plan"><i class="btn-icon pulse fas fas fa-arrow-right"></i></a>
                             <i class="icon icon-rocket"></i>
-                            <h4>Стандарт</h4>
+                            <h4>Лайт</h4>
                             <span class="price">
                                 <i>₽</i>15.000<span class="plan"> / месяц</span>
                             </span>                            
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Поддержка сайта</span>
-                                    <i class="icon-min m-0 fas fa-check text-right"></i>
+                                    <span>Техническая поддержка</span>
+                                    <!--<i class="icon-min m-0 fas fa-check text-right"></i>-->
                                 </li>
                                 <li class="list-group-item d-flex justify-content-between align-items-center text-left">
                                     <span>Консалтинг</span>
-                                    <i class="icon-min m-0 fas fa-check text-right"></i>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Разработка стратегии</span>
-                                    <i class="icon-min m-0 fas fa-times text-right"></i>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>SEO-продвижение</span>
-                                    <i class="icon-min m-0 fas fa-times text-right"></i>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Контекстная реклама</span>
-                                    <i class="icon-min m-0 fas fa-times text-right"></i>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Выделенный специалист</span>
-                                    <i class="icon-min m-0 fas fa-times text-right"></i>
                                 </li>
                             </ul>
                         </div>
@@ -270,34 +253,17 @@
                             <span class="badge">Выгодное<br>решение</span>
                             <a href="#" class="choose-plan"><i class="btn-icon pulse fas fas fa-arrow-right"></i></a>
                             <i class="icon icon-briefcase"></i>
-                            <h4>Профессионал</h4>
+                            <h4>Стандарт</h4>
                             <span class="price">
                                 <i>₽</i>30.000<span class="plan"> / месяц</span>
-                            </span>  
+                            </span>
+                            <p><b>Тариф "Лайт"<br>+</b></p>
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Поддержка сайта</span>
-                                    <i class="icon-min m-0 fas fa-check text-right"></i>
+                                    <span>Разработка новых функций</span>
                                 </li>
                                 <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Консалтинг</span>
-                                    <i class="icon-min m-0 fas fa-check text-right"></i>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Разработка стратегии</span>
-                                    <i class="icon-min m-0 fas fa-check text-right"></i>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>SEO-продвижение</span>
-                                    <i class="icon-min m-0 fas fa-check text-right"></i>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Контекстная реклама</span>
-                                    <i class="icon-min m-0 fas fa-times text-right"></i>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Выделенный специалист</span>
-                                    <i class="icon-min m-0 fas fa-times text-right"></i>
+                                    <span>Интеграция с CRM</span>
                                 </li>
                             </ul>
                         </div>
@@ -306,34 +272,17 @@
                         <div data-aos="fade-up" class="card">
                             <a href="#" class="choose-plan"><i class="btn-icon pulse fas fas fa-arrow-right"></i></a>
                             <i class="icon icon-diamond"></i>
-                            <h4>Ультра</h4>
+                            <h4>Премиум</h4>
                             <span class="price">
-                                <i>₽</i>50.000<span class="plan"> / месяц</span>
-                            </span>  
+                                <i>₽</i>40.000<span class="plan"> / месяц</span>
+                            </span>
+                            <p><b>Тариф "Стандарт"<br>+</b></p>
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Поддержка сайта</span>
-                                    <i class="icon-min m-0 fas fa-check text-right"></i>
+                                    <span>Оптимизация сайта</span>
                                 </li>
                                 <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Консалтинг</span>
-                                    <i class="icon-min m-0 fas fa-check text-right"></i>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Разработка стратегии</span>
-                                    <i class="icon-min m-0 fas fa-check text-right"></i>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>SEO-продвижение</span>
-                                    <i class="icon-min m-0 fas fa-check text-right"></i>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Контекстная реклама</span>
-                                    <i class="icon-min m-0 fas fa-check text-right"></i>
-                                </li>
-                                <li class="list-group-item d-flex justify-content-between align-items-center text-left">
-                                    <span>Выделенный специалист</span>
-                                    <i class="icon-min m-0 fas fa-check text-right"></i>
+                                    <span>Разработка новых решений</span>
                                 </li>
                             </ul>
                         </div>
@@ -351,16 +300,13 @@
             <div class="container smaller">
                 <div class="row">
                     <div class="col-12 col-md-6 m-md-0 intro">
-                        <span class="pre-title m-0">Подписка</span>
+                        <span class="pre-title m-0">Акция до 31 января</span>
                         <h2><span class="featured"><span>Будьте</span></span> первым</h2>
-                        <p>Оставьте Email и получайте новости о нашей компании и специальные предложения.</p>
+                        <p>Заключите договор до конца января и получите <b>скидку 20%</b> на разработку сайта и первый месяц обслуживания.</p>
                     </div>
-                    <div class="col-12 col-md-6">
+                    <!--<div class="col-12 col-md-6">
                         <form action="php/form.php" id="nexgen-subscribe" class="row m-auto items">
                             <input type="hidden" name="section" value="nexgen_subscribe">
-
-                            <input type="hidden" name="reCAPTCHA">
-                            <!-- Remove this field if you want to disable recaptcha -->
 
                             <div class="col-12 mt-0 input-group align-self-center item">
                                 <input type="text" name="name" class="form-control less-opacity field-name" placeholder="Имя">
@@ -375,7 +321,7 @@
                                 <span class="form-alert mt-3 mb-0"></span>
                             </div>
                         </form>
-                    </div>
+                    </div>-->
                 </div>
             </div>
         </section>
@@ -389,7 +335,7 @@
                             <div class="col-12 p-0">
                                 <span class="pre-title m-0">Мы вам перезвоним</span>
                                 <h2>Оставьте <span class="featured"><span>заявку</span></span></h2>
-                                <p>Мы скажемся с вами так скоро, насколько это возможно.</p>
+                                <p>Мы свяжемся с вами в течение 20 минут.</p>
                             </div>
                         </div>
                         <div class="row">
@@ -401,7 +347,7 @@
                     <div class="col-12 col-md-4">
                         <div class="contacts">
                             <h4>webber.pw</h4>
-                            <p>Создание и разработка сайтов, интернет-магазинов.</p>
+                            <p>Создание и разработка сайтов, <br>интернет-магазинов.</p>
                             <p>Обслуживание и продвижение сайтов.</p>
                             <ul class="navbar-nav">
                                 <li class="nav-item">

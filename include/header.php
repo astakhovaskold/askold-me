@@ -194,9 +194,9 @@
                         <li class="nav-item">
                             <a href="#pricing" class="smooth-anchor nav-link">Прайс</a>
                         </li>
-                        <li class="nav-item">
+                        <!--<li class="nav-item">
                             <a href="#blog" class="smooth-anchor nav-link">Блог</a>
-                        </li>
+                        </li>-->
                         <!-- <ul class="navbar-nav icons">
                             <li class="nav-item">
                                 <a href="#" class="nav-link" data-toggle="modal" data-target="#sign">
