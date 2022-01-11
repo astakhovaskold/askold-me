@@ -799,6 +799,9 @@ jQuery(function ($) {
     var btn = $(ID + " .btn:first-child");
     var alert = $(ID + " .form-alert");
 
+    const subscribeID = 'nexgen-subscribe';
+    const isSubscribe = form.attr('id') === subscribeID;
+
     alert.hide();
 
     $(document).on("click", ID + " .btn:first-child", function () {
@@ -823,14 +826,28 @@ jQuery(function ($) {
 
       var url = form.attr("action");
 
+      const body = form.serializeArray().filter(i => i.name !== 'reCAPTCHA');
+
+      console.log(body);
+
       $.ajax({
         type: "POST",
         url: url,
-        data: form.serialize(),
         success: function (response) {
+          console.log(response);
           try {
-            JSON.parse(response);
-            var obj = JSON.parse(response);
+            let obj = {};
+
+            if (isSubscribe) {
+              const info = $(response).find('#main h3').siblings('p:first').text();
+              const status = $(response).find('#main h3').css('color') !== 'red';
+              obj = {
+                info,
+                status: status ? 'success' : 'invalid',
+              }
+            } else {
+              obj = JSON.parse(response);
+            }
 
             if (obj.status == "success") {
               setTimeout(function () {
@@ -875,6 +892,7 @@ jQuery(function ($) {
                 .fadeIn();
             }
           } catch (e) {
+            console.error(e);
             btn.removeClass("effect-motion-bg");
             input.val("").removeClass("invalid").removeClass("valid");
             alert
@@ -884,6 +902,7 @@ jQuery(function ($) {
               .fadeIn();
           }
         },
+        data: jQuery.param(body),
       });
     });
   }

@@ -300,28 +300,36 @@
             <div class="container smaller">
                 <div class="row">
                     <div class="col-12 col-md-6 m-md-0 intro">
-                        <span class="pre-title m-0">Акция до 31 января</span>
+                        <span class="pre-title m-0">Подписка</span>
                         <h2><span class="featured"><span>Будьте</span></span> первым</h2>
-                        <p>Заключите договор до конца января и получите <b>скидку 20%</b> на разработку сайта и первый месяц обслуживания.</p>
+                        <p>Подпишиетсь на полезную рассылку и получите <b>скидку 20%</b> на разработку сайта и первый месяц обслуживания.</p>
                     </div>
-                    <!--<div class="col-12 col-md-6">
-                        <form action="php/form.php" id="nexgen-subscribe" class="row m-auto items">
+                    <div class="col-12 col-md-6">
+                        <!-- SendPulse Simple Subscription Form -->
+                        <form action="https://login.sendpulse.com/forms/simple/u/eyJ1c2VyX2lkIjo3OTI2NjAyLCJhZGRyZXNzX2Jvb2tfaWQiOjEzODM5NywibGFuZyI6InJ1In0=" id="nexgen-subscribe" class="row m-auto items">
                             <input type="hidden" name="section" value="nexgen_subscribe">
+                            <input type="hidden" name="reCAPTCHA">
 
                             <div class="col-12 mt-0 input-group align-self-center item">
-                                <input type="text" name="name" class="form-control less-opacity field-name" placeholder="Имя">
+                                <label>
+                                    <input type="text" name="name" class="form-control less-opacity field-name" placeholder="Имя" />
+                                </label>
                             </div>
                             <div class="col-12 input-group align-self-center item">
-                                <input type="email" name="email" class="form-control less-opacity field-email" placeholder="Email">
+                                <label>
+                                    <input type="email" name="email" class="form-control less-opacity field-email" placeholder="Email" required />
+                                </label>
                             </div>
                             <div class="col-12 input-group align-self-center item">
-                                <a data-aos="zoom-in" class="btn primary-button">ПОДПИСАТЬСЯ</a>
+                                <input type="hidden" name="sender" value="info@webber.pw">
+                                <button type="submit" data-aos="zoom-in" class="btn primary-button">ПОДПИСАТЬСЯ</button>
                             </div>
                             <div class="col-12 item">
                                 <span class="form-alert mt-3 mb-0"></span>
                             </div>
                         </form>
-                    </div>-->
+                        <!-- SendPulse Simple Subscription Form -->
+                    </div>
                 </div>
             </div>
         </section>
