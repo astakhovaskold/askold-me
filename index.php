@@ -1,4 +1,4 @@
-<?php require "include/info.php"; ?>
+<?php require "include/variables.php"; ?>
 
 <?php require "include/header.php"; ?>
 
