@@ -291,10 +291,6 @@
             </div>
         </section>
 
-        <?php
-// include 'blocks/services-3.php';
-?>
-
         <!-- Subscribe -->
         <section id="subscribe" class="section-6 odd subscribe">
             <div class="container smaller">
@@ -388,5 +384,4 @@
             </div>
         </section>
 
-<?php require "include/footer.php";
-?>
+<?php require "include/footer.php"; ?>
