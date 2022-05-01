@@ -235,7 +235,7 @@
                             <i class="icon icon-rocket"></i>
                             <h4>Лайт</h4>
                             <span class="price">
-                                <i>₽</i>15.000<span class="plan"> / месяц</span>
+                                <i>₽</i>25.000<span class="plan"> / месяц</span>
                             </span>                            
                             <ul class="list-group list-group-flush">
                                 <li class="list-group-item d-flex justify-content-between align-items-center text-left">
@@ -255,7 +255,7 @@
                             <i class="icon icon-briefcase"></i>
                             <h4>Стандарт</h4>
                             <span class="price">
-                                <i>₽</i>30.000<span class="plan"> / месяц</span>
+                                <i>₽</i>35.000<span class="plan"> / месяц</span>
                             </span>
                             <p><b>Тариф "Лайт"<br>+</b></p>
                             <ul class="list-group list-group-flush">
@@ -274,7 +274,7 @@
                             <i class="icon icon-diamond"></i>
                             <h4>Премиум</h4>
                             <span class="price">
-                                <i>₽</i>40.000<span class="plan"> / месяц</span>
+                                <i>₽</i>50.000<span class="plan"> / месяц</span>
                             </span>
                             <p><b>Тариф "Стандарт"<br>+</b></p>
                             <ul class="list-group list-group-flush">
